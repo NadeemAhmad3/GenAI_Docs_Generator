@@ -393,9 +393,9 @@ git push origin feature/TransformerArchitecture
 ## 📧 Contact & Support
 
 **Your Name**
-- 📫 **Email**: your.email@example.com
-- 🌐 **LinkedIn**: [Your LinkedIn Profile]
-- 💻 **GitHub**: [Your GitHub Profile]
+- 📫 **Email**: nadeemahmad2703@gmail.com , ahmadbisam27@gmail.com
+- 🌐 **LinkedIn**: https://www.linkedin.com/in/bisam-ahmad-1bb581242/ , https://www.linkedin.com/in/nadeem-ahmad3/
+
 
 ---
 
